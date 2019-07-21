@@ -1,4 +1,5 @@
-this is a test project. And Following technology stack we are planning to use in order to implement this prototype
+This is a test project.
+And following technology stack we are planning to use in order to implement this prototype
 
 Spring
 Springboot
